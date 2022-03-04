@@ -1,0 +1,10 @@
+{
+    "max-instances": "20",
+    "uuid": "system-monitor@murielberehulka",
+    "name": "Utils system graphs",
+    "description": "Creates graphs for analyse system.",
+    "version": "1.3",
+    "prevent-decorations": true,
+    "author": "murielberehulka",
+    "last-edited": 1612628134
+}

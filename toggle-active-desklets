@@ -1,0 +1,8 @@
+#!/bin/bash
+test="$(cat $HOME/Documents/active_desklets)"
+if [ $test == "1" ] 
+then
+	echo -n 0 > $HOME/Documents/active_desklets
+else 
+	echo -n 1 > $HOME/Documents/active_desklets
+fi
